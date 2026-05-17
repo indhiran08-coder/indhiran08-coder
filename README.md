@@ -118,11 +118,11 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=indhiran08-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=indhiran08-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=indhiran08-coder&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhiran08-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhiran08-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
@@ -130,7 +130,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indhiran08-coder&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=indhiran08-coder&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4&no-bg=true" />
 </p>
 
 ---
@@ -219,3 +219,5 @@ jobs:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
+
+<!-- LAST_UPDATED: 2026-05-17 -->
