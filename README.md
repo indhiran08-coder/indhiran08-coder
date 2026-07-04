@@ -4,6 +4,7 @@
 <!--              ANIMATED WAVE HEADER              -->
 <!-- ═══════════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Indhiran%20S&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Automation%20%7C%20Cloud%20Engineer%20%7C%20Builder&descSize=18&descAlignY=56&descAlign=50" />
+<img width="100%" src="./banner.png" alt="Tech Stack Banner" />
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--              ANIMATED TYPING SVG               -->
@@ -77,7 +78,7 @@ public class Developer {
 </td>
 <td valign="top" width="45%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+<img src="./coding.gif" width="100%" alt="coding gif"/>
 
 </td>
 </tr>
