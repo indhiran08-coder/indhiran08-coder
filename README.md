@@ -1,31 +1,34 @@
-<div align="center">
+﻿<div align="center">
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--              ANIMATED WAVE HEADER              -->
-<!-- ═══════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Indhiran%20S&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Automation%20%7C%20Cloud%20Engineer%20%7C%20Builder&descSize=18&descAlignY=56&descAlign=50" />
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED WAVE HEADER                    -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Indhiran%20S&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20%7C%20AI%20Automation%20%7C%20Cloud%20Engineer&descSize=20&descAlignY=58&descAlign=50" />
 <img width="100%" src="./banner.png" alt="Tech Stack Banner" />
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--              ANIMATED TYPING SVG               -->
-<!-- ═══════════════════════════════════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=700&lines=Hey+there%2C+I'm+Indhiran+S+%F0%9F%91%8B;AI+Automation+Engineer+%F0%9F%A4%96;Cloud+%26+Full+Stack+Developer+%E2%98%81%EF%B8%8F;Game+Engine+Enthusiast+%F0%9F%8E%AE;Automating+the+Future%2C+One+Node+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED TYPING SVG                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=750&lines=Hey+there%2C+I'm+Indhiran+S+%F0%9F%91%8B;Java+Backend+%26+Spring+Boot+Developer+%E2%98%95;AI+Automation+Engineer+%F0%9F%A4%96;Cloud+%26+Full+Stack+Builder+%E2%98%81%EF%B8%8F;Game+Engine+Enthusiast+%F0%9F%8E%AE;Automating+the+Future%2C+One+Node+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--               PROFILE BADGES                   -->
-<!-- ═══════════════════════════════════════════════ -->
-<p>
-  <a href="https://github.com/indhiran08-coder">
-    <img src="https://komarev.com/ghpvc/?username=indhiran08-coder&label=Profile+Views&color=6e40c9&style=flat-square" />
-  </a>
-  <a href="https://github.com/indhiran08-coder?tab=followers">
-    <img src="https://img.shields.io/github/followers/indhiran08-coder?label=Followers&style=flat-square&color=6e40c9" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-6e40c9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building%20%F0%9F%94%A8-brightgreen?style=flat-square" />
-</p>
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    PROFILE BADGES                         -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<a href="https://github.com/indhiran08-coder">
+  <img src="https://komarev.com/ghpvc/?username=indhiran08-coder&label=Profile+Views&color=6e40c9&style=for-the-badge" />
+</a>
+<a href="https://github.com/indhiran08-coder?tab=followers">
+  <img src="https://img.shields.io/github/followers/indhiran08-coder?label=Followers&style=for-the-badge&color=6e40c9" />
+</a>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-6e40c9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Building%20%F0%9F%94%A8-00d26a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Collaborations-ff6b6b?style=for-the-badge" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -37,7 +40,7 @@ public class Developer {
     String  name       = "Indhiran S";
     String  role       = "AI Automation Engineer | Java Backend Developer | Cloud Engineer";
     String  education  = "B.Tech · AI & Data Science · Erode";
-    String  location   = "Tamil Nadu, India";
+    String  location   = "Tamil Nadu, India 🌏";
 
     String[] workingOn = {
         "N8n Workflow Automation & AI Pipelines",
@@ -75,6 +78,11 @@ public class Developer {
 - Advanced **System Design** & distributed architecture
 - Production-grade **MLOps** & AI agent frameworks
 
+### ⚡ Fun Facts
+- I automate tasks so I have more time to game 🎮
+- I debug with `System.out.println` and I'm not ashamed
+- Turning coffee ☕ into Spring Boot APIs since day one
+
 </td>
 <td valign="top" width="45%">
 
@@ -84,96 +92,125 @@ public class Developer {
 </tr>
 </table>
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/indhiran-s-36baa0331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/king_indhiran_21/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/indhiran08-coder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.duolingo.com/profile/INDHIRAN%20S" target="_blank">
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" />
-  </a>
-  <a href="mailto:indhiran0fficial04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Build
 
-**Languages**
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⚡-AI%20Automation-6e40c9?style=for-the-badge" /><br/><br/>
+<sub>N8n workflows, AI agents & automated pipelines that run while I sleep</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/☕-Java%20Backends-f89820?style=for-the-badge" /><br/><br/>
+<sub>Spring Boot REST APIs, microservices & cloud-native backend systems</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/☁️-Cloud%20Infra-FF9900?style=for-the-badge" /><br/><br/>
+<sub>AWS deployments, Docker containers, Linux VMs & serverless functions</sub>
+</td>
+</tr>
+</table>
 
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
-</p>
-
-**Backend & Runtime**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" />
-</p>
-
-**Cloud & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github&theme=dark" />
-</p>
-
-**AI / ML & Automation**
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-00BFA6?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Pipelines-6e40c9?style=flat-square&logo=apacheairflow&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,vscode,figma,postman&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=indhiran08-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=indhiran08-coder&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhiran08-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indhiran08-coder&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4&no-bg=true" />
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/indhiran-s-36baa0331/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/king_indhiran_21/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/indhiran08-coder" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.duolingo.com/profile/INDHIRAN%20S" target="_blank">
+  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" />
+</a>
+<a href="mailto:indhiran0fficial04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
+
+<br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+
+<br/>
+
+**Backend & Runtime**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+
+<br/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github&theme=dark" />
+
+<br/>
+
+**AI / ML & Automation**
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20DBs-00BFA6?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-6e40c9?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+
+<br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,vercel&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=indhiran08-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&border_radius=12" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=indhiran08-coder&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br/><br/>
+
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhiran08-coder&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&border_radius=12" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -181,7 +218,7 @@ public class Developer {
 
 ## 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=indhiran08-coder&bg_color=0d0d1a&color=6e40c9&line=6e40c9&point=a78bfa&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=indhiran08-coder&bg_color=0d0d1a&color=6e40c9&line=6e40c9&point=a78bfa&area=true&hide_border=true&area_color=6e40c930&radius=8" />
 
 ---
 
@@ -236,31 +273,38 @@ jobs:
 
 </details>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 🦜 Duolingo
 
-<p align="center">
-  <a href="https://www.duolingo.com/profile/INDHIRAN%20S">
-    <img src="https://img.shields.io/badge/🦜%20Duolingo%20--%20INDHIRAN%20S-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.duolingo.com/profile/INDHIRAN%20S">
+  <img src="https://img.shields.io/badge/🦜%20Duolingo%20--%20INDHIRAN%20S-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💌 Let's Connect
+### 💌 Let's Connect & Collaborate
 
-I'm always open to interesting conversations, collaborations, and exciting opportunities.  
-Feel free to reach out — I'd love to hear from you!  
+I'm always open to interesting conversations, collaborations, and exciting opportunities.
+Whether it's an AI project, a backend challenge, or just a tech chat — reach out!
+
 📧 **[indhiran0fficial04@gmail.com](mailto:indhiran0fficial04@gmail.com)**
 
 <br/>
 
 *"Automate the mundane, architect the future — intelligence at every layer."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling&fontColor=fff&fontSize=16&text=Thanks%20for%20visiting%20%F0%9F%9A%80&fontAlignY=70" />
 
 </div>
 
