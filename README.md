@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   ANIMATED WAVE HEADER                    -->
@@ -216,6 +216,18 @@ public class Developer {
 
 ---
 
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." width="90%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
 ## 📈 Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=indhiran08-coder&bg_color=0d0d1a&color=6e40c9&line=6e40c9&point=a78bfa&area=true&hide_border=true&area_color=6e40c930&radius=8" />
@@ -272,6 +284,30 @@ jobs:
 ```
 
 </details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🏅 Certifications & Recognition
+
+<div align="center">
+
+<!-- Add your actual certifications below -->
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(Learning)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Developer-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-Automation%20Builder-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-B.Tech%20Graduate-6e40c9?style=for-the-badge&logo=googlescholar&logoColor=white" />
+
+<br/><br/>
+
+**🌐 Currently Exploring**
+
+<img src="https://img.shields.io/badge/LangChain-RAG%20%26%20Agents-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-Distributed%20Systems-0052CC?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
