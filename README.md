@@ -232,31 +232,55 @@ public class Developer {
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=indhiran08-coder&bg_color=0d0d1a&color=6e40c9&line=6e40c9&point=a78bfa&area=true&hide_border=true&area_color=6e40c930&radius=8" />
 
+
 ---
 
-## 🏙️ GitHub Skyline — 3D Contribution City
+## 🌐 3D Contribution Graph
 
 <div align="center">
 
-> 🌆 **My GitHub contributions visualized as a 3D city skyline!**
-> Every commit, PR & review builds the city taller.
-
-<a href="https://skyline.github.com/indhiran08-coder/2025" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-2025-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://skyline.github.com/indhiran08-coder/2024" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-2024-a78bfa?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-```
-🏙️  Click the badges above to fly through my 3D contribution city in your browser!
-     Every bar = a day of commits. The taller the building, the more I shipped 🚀
-```
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
+
+<details>
+<summary>⚙️ <b>Click to set up the 3D Contribution Graph (GitHub Actions Workflow)</b></summary>
+
+Create `.github/workflows/profile-3d.yml` with this content:
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Runs every day at midnight IST
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "generate 3D contribution graph" || exit 0
+          git push
+```
+
+> After setup, run the workflow manually once from the **Actions** tab to generate the image.
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
