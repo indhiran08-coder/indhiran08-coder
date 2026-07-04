@@ -294,7 +294,9 @@ jobs:
 <div align="center">
 
 <!-- Add your actual certifications below -->
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(Learning)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<a href="https://github.com/indhiran08-coder/indhiran08-coder/blob/main/certifications/AWS-Certified-Cloud-Practitioner.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner%20✅-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Developer-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-Automation%20Builder-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-B.Tech%20Graduate-6e40c9?style=for-the-badge&logo=googlescholar&logoColor=white" />
