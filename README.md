@@ -234,6 +234,33 @@ public class Developer {
 
 ---
 
+## 🏙️ GitHub Skyline — 3D Contribution City
+
+<div align="center">
+
+> 🌆 **My GitHub contributions visualized as a 3D city skyline!**
+> Every commit, PR & review builds the city taller.
+
+<a href="https://skyline.github.com/indhiran08-coder/2025" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-2026-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://skyline.github.com/indhiran08-coder/2024" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-2025-a78bfa?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://skyline.github.com/indhiran08-coder/2025" target="_blank">
+  <img src="https://github-skyline-widgets.vercel.app/api?username=indhiran08-coder&year=2025&theme=purple" width="80%" onerror="this.style.display='none'"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
 ## 🐍 Contribution Snake
 
 <picture>
