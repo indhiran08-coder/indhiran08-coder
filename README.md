@@ -30,29 +30,58 @@
 
 ## 🧠 About Me
 
-<img align="right" width="360" height="285" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+```java
+public class Developer {
 
-```yaml
-👤  Name        : Indhiran S
-🎓  Education   : B.Tech · AI & Data Science · Erode
-💼  Role        : AI Automation Engineer | Cloud Engineer
-📍  Location    : Tamil Nadu, India
+    String  name       = "Indhiran S";
+    String  role       = "AI Automation Engineer | Java Backend Developer | Cloud Engineer";
+    String  education  = "B.Tech · AI & Data Science · Erode";
+    String  location   = "Tamil Nadu, India";
 
-🔭  Working On  :
-      ├─ N8n Workflow Automation & AI Pipelines
-      ├─ Full Stack Web Applications
-      └─ Cloud Infrastructure & Virtual Machines
+    String[] workingOn = {
+        "N8n Workflow Automation & AI Pipelines",
+        "Java Backend APIs with Spring Boot",
+        "Cloud Infrastructure & Virtual Machines on AWS"
+    };
 
-💡  Interests   :
-      ├─ Artificial Intelligence & AI Ethics
-      ├─ Game Engines & Game Development
-      └─ Cloud-Native & Serverless Architecture
+    String[] interests = {
+        "Artificial Intelligence & AI Ethics",
+        "Game Engines & Game Development",
+        "Cloud-Native & Serverless Architecture"
+    };
 
-📫  Contact     : indhiran0fficial04@gmail.com
-⚡  Fun Fact    : I automate tasks so I have more time to game 🎮
+    String funFact = "I automate tasks so I have more time to game 🎮";
+
+    void sayHi() {
+        System.out.println("Thanks for stopping by — let's build something great! 🚀");
+    }
+}
 ```
 
-<br clear="right" />
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### 🔭 Currently Working On
+- **N8n Workflow Automations** & AI pipelines
+- Java Backend APIs with **Spring Boot**
+- **Cloud Infrastructure** & VM management on AWS
+
+### 🌱 Currently Learning
+- **LLMs**, Vector Databases & RAG workflows
+- Advanced **System Design** & distributed architecture
+- Production-grade **MLOps** & AI agent frameworks
+
+</td>
+<td valign="top" width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -95,7 +124,7 @@
 **Backend & Runtime**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" />
 </p>
 
 **Cloud & DevOps**
@@ -104,10 +133,20 @@
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github&theme=dark" />
 </p>
 
+**AI / ML & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-00BFA6?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Pipelines-6e40c9?style=flat-square&logo=apacheairflow&logoColor=white" />
+</p>
+
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vercel,vscode,figma,postman&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
@@ -125,6 +164,8 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhiran08-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -132,6 +173,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=indhiran08-coder&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4&no-bg=true" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -204,15 +247,15 @@ jobs:
 
 ---
 
-## 📬 Reach Me
-
-<p align="left">
-  📧 &nbsp;<a href="mailto:indhiran0fficial04@gmail.com"><b>indhiran0fficial04@gmail.com</b></a>
-</p>
-
----
-
 <div align="center">
+
+### 💌 Let's Connect
+
+I'm always open to interesting conversations, collaborations, and exciting opportunities.  
+Feel free to reach out — I'd love to hear from you!  
+📧 **[indhiran0fficial04@gmail.com](mailto:indhiran0fficial04@gmail.com)**
+
+<br/>
 
 *"Automate the mundane, architect the future — intelligence at every layer."*
 
