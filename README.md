@@ -398,4 +398,4 @@ Whether it's an AI project, a backend challenge, or just a tech chat — reach o
 
 </div>
 
-<!-- LAST_UPDATED: 2026-07-24 -->
+<!-- LAST_UPDATED: 2026-07-25 -->
